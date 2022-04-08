@@ -27,3 +27,7 @@ hs_err_pid*
 
 # Ignore Gradle build output directory
 build
+
+# Add Python git ignore rules
+.Python
+.venv
